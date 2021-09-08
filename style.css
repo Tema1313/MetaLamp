@@ -1,8 +1,29 @@
-.hr {
-    margin: 0; /* Обнуляем значение отступов */
-    padding: 4px; /* Значение полей */
+.d1 {
+    width: 71px;
+    height:71px;
+    border-radius: 10%;
+    margin-top:19px;
 }
-ul.hr li{display: inline; /* Отображать как строчный элемент */
-    margin-right: 5px; /* Отступ слева */
-    border: 1px solid #000; /* Рамка вокруг текста */
-    padding: 3px; /* Поля вокруг текста */}
+
+.box{
+    margin-left: 145px;
+    margin-top:145px;
+}
+
+.text{
+    color:#1F2041; opacity: 1;
+    margin:0px;
+}
+
+.article {
+    display: flex;
+}
+
+.otstup{
+    margin-left:30px;
+    margin-top:10px;
+}
+
+.malotstup{
+    margin-top:-15px;
+}
